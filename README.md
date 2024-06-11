@@ -4,18 +4,17 @@ Welcome to the IoT Application project, created using MIT App Inventor. This app
 
 ## Features Overview
 
-1. **Login Screen**: Input your username and password to access the main functionalities.
-2. **Registration**: If you don't have an account, click the register button to create a new account.
-3. **Main Menu**: Log in with your registered account or use the legacy key for admin access.
-4. **Overview Screen**: View the number of devices connected and see an example of raw JSON data received. Click the devices button to proceed.
-5. **List Devices Screen**: View all the devices connected in a list format.
-6. **Moisture Sensor Details**: Click on the moisture sensor to view the latest 10 values in a chart format.
-7. **Environment Sensor Details**: View the latest 10 temperature and humidity data points in a chart format.
-8. **Actuator Control**: From the overview screen, control available actuators using switches and sliders.
+1. **Login/Main Menu Screen**: Input your username and password to access the main functionalities or register a new account.
+2. **Registration**: Create a new account if you don't have one.
+3. **Overview Screen**: View the number of devices connected and see an example of raw JSON data received. Click the devices button to proceed.
+4. **List Devices Screen**: View all the devices connected in a list format.
+5. **Moisture Sensor Details**: Click on the moisture sensor to view the latest 10 values in a chart format.
+6. **Environment Sensor Details**: View the latest 10 temperature and humidity data points in a chart format.
+7. **Actuator Control**: From the overview screen, control available actuators using switches and sliders.
 
 ## Step-by-Step Instructions
 
-### 1. Main Menu Screen
+### 1. Login/Main Menu Screen
 
 - **Input Fields**: Enter your username and password.
 - **Login Button**: Click to log in.
@@ -33,9 +32,9 @@ Welcome to the IoT Application project, created using MIT App Inventor. This app
 
 ### 4. Overview Screen
 
-- **Device Count**: View the total number of devices connected.
+- **Log Out button**: Click this button to safely log out of the application and return to the login/main menu screen.
 - **Raw Data**: See an example of the raw JSON data received from devices.
-- **Devices Button**: Click to proceed to the list of devices.
+- **Devices Button**: View the total number of devices connected, click to proceed to the list of devices.
 
 ### 5. List Devices Screen
 
