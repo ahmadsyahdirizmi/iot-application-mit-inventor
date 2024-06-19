@@ -1,7 +1,11 @@
 # IoT Application with MIT App Inventor 📱💡
 Welcome to the IoT Application project, created using MIT App Inventor. This application provides a user-friendly interface for monitoring and controlling IoT devices. Below are the step-by-step instructions to navigate through the app.
 
-![Login Screen](https://github.com/ahmadsyahdirizmi/iot-application-mit-inventor/blob/d47c6e8d3063fb08ed177427019fa281e21f7ba8/Documentation/Detail%20screen%20-showing%20temp%20%26%20hum%20valu%20in%20sensor%20envi.jpg)
+<p align="center">
+  <img src="https://github.com/ahmadsyahdirizmi/iot-application-mit-inventor/blob/d47c6e8d3063fb08ed177427019fa281e21f7ba8/Documentation/Detail%20screen%20-showing%20temp%20%26%20hum%20valu%20in%20sensor%20envi.jpg" alt="Temp & hum Value" style="width:30%;height:30%;margin-right:20px;">
+  <img src="https://github.com/ahmadsyahdirizmi/iot-application-mit-inventor/blob/3314800fcd5caf7898be308b6f422d1c3f16eae7/Documentation/Detail%20screen%20-%20showing%20moisture%20value%20in%20sensor%20mositure.jpg" alt="Mois value" style="width:30%;">
+</p>
+
 ## Features Overview
 
 1. **Login/Main Menu Screen**: Input your username and password to access the main functionalities or register a new account.
